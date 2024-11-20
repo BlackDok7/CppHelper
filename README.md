@@ -19,7 +19,8 @@ A Flask-based API using OpenAI's GPT to assist with C++ programming. This tool p
 ### Step 1: Clone the Repository
 
 git clone https://github.com/BlackDok7/CppHelper.git
-cd cpp-helper-api
+
+cd CppHelper
 
 ### Step 2: Install Dependencies
 
